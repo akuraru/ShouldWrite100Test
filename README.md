@@ -21,3 +21,5 @@ ShouldWrite100Test
 5002. DBアクセス
 
 6001. ランダム
+
+7001. Maybeモナド
