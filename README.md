@@ -33,6 +33,8 @@ ShouldWrite100Test
 9003. カバレッジの計測
 9004. 実行速度の計測
 
+1001. テストダブル
+
 ## Contributing
 
 1. Fork it!
