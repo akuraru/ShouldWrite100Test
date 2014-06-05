@@ -24,3 +24,5 @@ ShouldWrite100Test
 6001. ランダム
 
 7001. Maybeモナド
+
+8001. 例外処理
