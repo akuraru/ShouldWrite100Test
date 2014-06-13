@@ -29,7 +29,8 @@ ShouldWrite100Test
 
 601. ランダム
 
-701. Maybeモナド
+701. Optional
+702. Null
 
 801. 例外処理
 
